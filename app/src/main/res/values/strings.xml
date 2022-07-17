@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UIComponents</string>
+    <string name="start_stop">Start/Stop</string>
+    <string name="scrolling">Scrolling</string>
+</resources>
